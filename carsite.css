@@ -1,0 +1,25 @@
+
+body {
+  background-color: khaki;
+}
+
+#car_selection {
+  border: 4px solid darkgrey;
+  width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+
+  border-radius: 10px;
+}
+
+#info-display {
+  border:4px solid darkgrey;
+  width: 300px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  border-radius: 10px;
+
+  position: absolute;
+  top: 80px;
+  left: 320px;
+}
