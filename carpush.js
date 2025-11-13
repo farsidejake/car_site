@@ -82,7 +82,7 @@ function selectChargeTimes(){
             chargeTimes = chargeTimes10;
             chargeDisplayTime = [];
             if (timeDisplay == 1){chargeDisplayTime = chargeTimes10;}
-            else {chargeDisplayTimes = chargeTimes10_12hr;}
+            else {chargeDisplayTime = chargeTimes10_12hr;}
             break;
         case 11:
             //array
@@ -98,7 +98,7 @@ function selectChargeTimes(){
             chargeTimes = chargeTimes12;
             chargeDisplayTime = [];
             if (timeDisplay == 1){chargeDisplayTime = chargeTimes12;}
-            else {chargeDisplayTimes = chargeTimes12_12hr;}
+            else {chargeDisplayTime = chargeTimes12_12hr;}
             break;
         case 13:
             //array
